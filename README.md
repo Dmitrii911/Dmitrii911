@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1>Привет, я <a href="(https://github.com/Dmitrii911)" target="_blank">Дмитрий</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
