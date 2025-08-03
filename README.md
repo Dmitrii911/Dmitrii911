@@ -13,7 +13,7 @@
 
 <p align="center">
 <img width="6%" title="IntelliJ IDEA" src="media/logo/Intelij_IDEA.svg">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />     
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="40" width="40" />     
 <img width="6%" title="Selenide" src="media/logo/Selenide.svg">
 <img width="6%" title="Selenoid" src="media/logo/Selenoid.svg">
 <img width="6%" title="Allure Report" src="media/logo/Allure_Report.svg">
@@ -37,4 +37,4 @@
 ### Мои контакты:
 
 +  Email - wedil@mail.ru
-+  Telegram - <img width="3318" height="3836" alt="image" src="https://github.com/user-attachments/assets/2b193f56-31e4-477b-b5a2-b5d9aead3fd5" />
++  Telegram - <img width="3318" height="3836" alt="image" src="https://github.com/user-attachments/assets/2b193f56-31e4-477b-b5a2-b5d9aead3fd5" height="100" width="100" />
