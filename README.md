@@ -25,6 +25,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="40" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kibana/kibana-original.svg" height="40" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-line-wordmark.svg" height="40" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" height="40" width="40" />
+
 
 </p>
  ---
@@ -39,4 +41,4 @@
 ### Мои контакты:
 
 +  Email - wedil@mail.ru
-+  Telegram - <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/2b193f56-31e4-477b-b5a2-b5d9aead3fd5" />
++  Telegram - <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/2b193f56-31e4-477b-b5a2-b5d9aead3fd5" />
