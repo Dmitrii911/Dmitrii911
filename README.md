@@ -8,12 +8,12 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dmitrii911&show_icons=true&bg_color=00000000)
 
-
+---
  ### Мои инструменты и технологии:
 
 <p align="center">
 <img width="6%" title="IntelliJ IDEA" src="media/logo/Intelij_IDEA.svg">
-<img width="6%" title="Java" src="media/logo/Java.svg">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />     
 <img width="6%" title="Selenide" src="media/logo/Selenide.svg">
 <img width="6%" title="Selenoid" src="media/logo/Selenoid.svg">
 <img width="6%" title="Allure Report" src="media/logo/Allure_Report.svg">
@@ -25,7 +25,7 @@
 <img width="6%" title="Telegram" src="media/logo/Telegram.svg">
 <img width="5%" title="Jira" src="media/logo/Jira.svg">
 </p>
- 
+ ---
  ### Мои дипломные проекты для [qa.guru](https://qa.guru/), школы инженеров по автоматизации тестирования на Java :mortar_board:
   
 
@@ -33,8 +33,8 @@
 
 [API_Diplom](здесь будет ссылка)
 
- 
+--- 
 ### Мои контакты:
 
 +  Email - wedil@mail.ru
-+  Telegram - @DV_Oleynik
++  Telegram - <img width="3318" height="3836" alt="image" src="https://github.com/user-attachments/assets/2b193f56-31e4-477b-b5a2-b5d9aead3fd5" />
