@@ -37,4 +37,4 @@
 ### Мои контакты:
 
 +  Email - wedil@mail.ru
-+  Telegram - <img width="3318" height="3836" alt="image" src="https://github.com/user-attachments/assets/2b193f56-31e4-477b-b5a2-b5d9aead3fd5" height="100" width="100" />
++  Telegram - <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/2b193f56-31e4-477b-b5a2-b5d9aead3fd5" />
